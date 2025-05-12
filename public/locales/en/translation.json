@@ -1,0 +1,196 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "community": "Community",
+    "about": "About Us",
+    "contact": "Contact",
+    "callNow": "Call Now"
+  },
+  "hero": {
+    "slides": {
+      "community": {
+        "title": "You're Not a Tourist in Albania—You're Family",
+        "subtitle": "Join Our Vibrant Community",
+        "description": "Join 500+ international residents and travelers in Albania's most welcoming community. Weekly rooftop gatherings, local tips, and lifelong friends included.",
+        "cta": "✦ Join our Facebook Community ✦"
+      },
+      "emotional": {
+        "title": "Live Your Albanian Dream",
+        "subtitle": "Your Journey Begins Here",
+        "description": "Rent for a week... or stay for life. Our international community awaits.",
+        "cta": "Learn More"
+      },
+      "couple": {
+        "title": "Your Love Story in Radhimë",
+        "subtitle": "Where Romance Meets Paradise",
+        "description": "Create unforgettable moments together in our exclusive couple-friendly villas with breathtaking sea views",
+        "cta": "✦ Book Your Romantic Getaway ✦"
+      },
+      "ksamil": {
+        "title": "Ksamil Islands",
+        "subtitle": "The Maldives of Europe",
+        "description": "Private beach paradise with villa access"
+      },
+      "gjirokaster": {
+        "title": "Gjirokastër",
+        "subtitle": "UNESCO Time Capsule",
+        "description": "Walk through 500 years of history"
+      },
+      "tirana": {
+        "title": "Tirana",
+        "subtitle": "Where Old Meets New",
+        "description": "Vibrant capital with hidden bunkers & rooftop bars"
+      },
+      "vlore": {
+        "title": "Vlorë",
+        "subtitle": "Albania's Riviera Gateway",
+        "description": "Cliffside villas with infinity pools"
+      },
+      "berat": {
+        "title": "Berat: A Family's Ottoman Fairytale",
+        "subtitle": "City of a Thousand Windows",
+        "description": "Experience life in a UNESCO World Heritage site, where Ottoman houses cascade down the mountainside beneath the ancient castle. A living museum of Albanian history."
+      },
+      "dhermi": {
+        "title": "Dhërmi: Work From Paradise",
+        "subtitle": "Albania's Premier Digital Nomad Haven",
+        "description": "Where remote work meets beachfront luxury. Join our thriving community of digital professionals."
+      }
+    }
+  },
+  "services": {
+    "mainTitle": "Your Journey, Our Promise",
+    "mainDescription": "From planning to experiencing, we handle every aspect of your Albanian adventure. Choose from our comprehensive services or mix and match to create your perfect experience.",
+    "tourTitle": "Tourist Trips & Excursions",
+    "tourText": "From guided group tours to cultural experiences, historical sites, and nature expeditions. Expert guides bring Albania's rich heritage and natural wonders to life.",
+    "privateTitle": "Personalized Private Tours",
+    "privateText": "Luxury experiences tailored to your interests - photography tours, special occasions, or insider local experiences. Your dream Albanian adventure, crafted just for you.",
+    "transportTitle": "Transportation Services",
+    "transportText": "Seamless transfers from airports and ports, ferry services, and group transportation. Professional drivers and meet & greet service included.",
+    "accommodationTitle": "Accommodation Solutions",
+    "accommodationText": "From luxury hotels to cozy B&Bs, vacation rentals to long-term housing. Corporate housing available. All properties vetted for quality and comfort.",
+    "residencyTitle": "Residency & Legal Support",
+    "residencyText": "Expert assistance with permits, documentation, legal consultation, and local registration. Full support for your relocation to Albania.",
+    "vehicleTitle": "Vehicle Services",
+    "vehicleText": "Comprehensive car rentals, luxury vehicle fleet, long-term leasing with insurance and 24/7 roadside assistance. Cross-border permits available.",
+    "bookingTitle": "Travel Booking Office",
+    "bookingText": "One-stop shop for flights, cruises, train tickets, and travel insurance. Special rates and package deals for our clients.",
+    "communityTitle": "Community & Social",
+    "communityText": "Join our vibrant international community. Regular meetups, cultural exchange programs, and networking events. Build lasting friendships in Albania.",
+    "conciergeTitle": "Concierge Services",
+    "conciergeText": "Premium concierge support - restaurant reservations, event tickets, shopping assistance, local recommendations, and 24/7 emergency support.",
+    "ctaText": "Whether you need a single service or a complete package, our team is here to ensure your Albanian experience exceeds expectations. Let's start planning your journey today.",
+    "ctaButton": "Explore All Services"
+  },
+  "bookYourWay": {
+    "title": "Book Your Way",
+    "subtitle": "Whether you want a complete package or just individual services, our booking process is simple and flexible",
+    "cards": {
+      "tours": {
+        "title": "Complete Tour Packages",
+        "description": "Book the entire package for a convenient and organized experience",
+        "cta": "Explore Tours"
+      },
+      "stays": {
+        "title": "Individual Stays",
+        "description": "Book villas, hotels, or B&Bs independently",
+        "cta": "View Accommodations"
+      },
+      "services": {
+        "title": "Single Services",
+        "description": "Need just transportation or a guide? Customize your journey.",
+        "cta": "Choose Services"
+      }
+    }
+  },
+  "tourPackages": {
+    "title": "Curated Tour Packages",
+    "description": "Experience Albania's finest destinations with our carefully crafted tour packages, each designed to provide unforgettable memories.",
+    "ctaCall": "Call Now",
+    "ctaSchedule": "Schedule Call",
+    "package1": {
+      "title": "Grand Sud Albania",
+      "subtitle": "All-in-One Day Experience",
+      "description": "Journey through Albania's stunning southern route, visiting Tepelena, Gjirokaster Castle, the Blue Eye, Ksamil, Sarande, and the Castle — all in one day.",
+      "duration": "12 hours (08:00 - 20:00)",
+      "locations": ["Tepelena", "Gjirokaster Castle", "Blue Eye", "Ksamil", "Sarande"],
+      "includes": [
+        "Professional guide",
+        "Transportation",
+        "Optional lunch stop",
+        "Entrance fees",
+        "Water & snacks",
+        "Photo stops"
+      ]
+    },
+    "package2": {
+      "title": "Vlora and Surroundings",
+      "subtitle": "Half-Day Heritage Tour",
+      "description": "Discover Vlora's rich cultural heritage, starting with the serene Zvernec Monastery. Visit the historic Muradie Center and ancient mosques and monuments. Perfect half-day introduction to Vlora's history.",
+      "duration": "6 hours (08:00 - 14:00)",
+      "locations": ["Zvernec Monastery", "Muradie Center", "Vlora Old Town"],
+      "includes": [
+        "Expert guide",
+        "Entrance fees",
+        "Water & refreshments",
+        "Transportation",
+        "Optional lunch arrangement"
+      ]
+    },
+    "package3": {
+      "title": "Pirate Ship Adventure",
+      "subtitle": "Ionian Sea Exploration",
+      "description": "Set sail along the stunning Karaburun Peninsula and mysterious Sazan Island. Explore the legendary Pirate Cave (Haxhi Ali). Choose between lunch served onboard or a hidden beach stop.",
+      "duration": "8 hours (10:00 - 18:00)",
+      "locations": ["Karaburun Peninsula", "Sazan Island", "Haxhi Ali Cave"],
+      "includes": [
+        "Boat trip",
+        "Optional onboard lunch",
+        "Professional crew",
+        "Safety equipment",
+        "Swimming stops",
+        "Water & refreshments"
+      ]
+    },
+    "package4": {
+      "title": "Historic Cities Tour",
+      "subtitle": "Discover Berat & Gjirokastër",
+      "description": "Explore the enchanting historic cities of Berat and Gjirokastër, both UNESCO World Heritage sites. Walk through cobblestone streets, visit ancient castles, and immerse yourself in Albanian culture.",
+      "duration": "10 hours (08:00 - 18:00)",
+      "locations": ["Berat Castle", "Gjirokastër Old Town", "Mangalem Quarter"],
+      "includes": [
+        "Guided tour",
+        "Museum entries",
+        "Round-trip transport",
+        "Water & snacks"
+      ]
+    },
+    "package5": {
+      "title": "Mountain Adventure",
+      "subtitle": "Albanian Alps Expedition",
+      "description": "Join a guided trek in the spectacular Albanian Alps. Enjoy breathtaking views, fresh mountain air, and discover local flora and fauna.",
+      "duration": "12 hours (07:00 - 19:00)",
+      "locations": ["Theth National Park", "Valbona Valley", "Blue Eye of Theth"],
+      "includes": [
+        "Hiking guide",
+        "4x4 transport",
+        "Packed lunch",
+        "Water & refreshments"
+      ]
+    },
+    "package6": {
+      "title": "Beach Relaxation",
+      "subtitle": "Day at Ksamil",
+      "description": "Spend a relaxing day on Ksamil's white sand beaches. Swim in crystal-clear waters, soak up the sun, and savor local cuisine at beachfront restaurants.",
+      "duration": "8 hours (09:00 - 17:00)",
+      "locations": ["Ksamil Beach", "Ksamil Islands", "Mirror Beach"],
+      "includes": [
+        "Beach towel",
+        "Sunbed & umbrella",
+        "Welcome cocktail",
+        "Water & snacks"
+      ]
+    }
+  }
+}

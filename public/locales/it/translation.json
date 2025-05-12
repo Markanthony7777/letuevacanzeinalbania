@@ -1,0 +1,218 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Servizi",
+    "community": "Comunità",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "callNow": "Chiama Ora"
+  },
+  "hero": {
+    "slides": {
+      "community": {
+        "title": "Non sei un turista in Albania—Sei di famiglia",
+        "subtitle": "Unisciti alla Nostra Comunità",
+        "description": "Unisciti a oltre 500 residenti e viaggiatori internazionali nella comunità più accogliente dell'Albania. Eventi settimanali sul tetto, consigli locali e amicizie durature incluse.",
+        "cta": "✦ Unisciti alla nostra community su Facebook ✦"
+      },
+      "emotional": {
+        "title": "Vivi il tuo sogno albanese",
+        "subtitle": "Il tuo viaggio inizia qui",
+        "description": "Affitta per una settimana... o resta per tutta la vita. Ti aspetta una comunità internazionale.",
+        "cta": "Scopri di più"
+      },
+      "couple": {
+        "title": "La tua storia d'amore a Radhimë",
+        "subtitle": "Dove il romanticismo incontra il paradiso",
+        "description": "Crea momenti indimenticabili insieme nelle nostre ville esclusive per coppie con vista mozzafiato sul mare",
+        "cta": "✦ Prenota il tuo soggiorno romantico ✦"
+      },
+      "ksamil": {
+        "title": "Isole di Ksamil",
+        "subtitle": "Le Maldive d'Europa",
+        "description": "Paradiso balneare privato con accesso alla villa"
+      },
+      "gjirokaster": {
+        "title": "Gjirokastër",
+        "subtitle": "Capsula del tempo UNESCO",
+        "description": "Cammina attraverso 500 anni di storia"
+      },
+      "tirana": {
+        "title": "Tirana",
+        "subtitle": "Dove il vecchio incontra il nuovo",
+        "description": "Capitale vivace con bunker nascosti e bar sul tetto"
+      },
+      "vlore": {
+        "title": "Vlorë",
+        "subtitle": "La porta della Riviera Albanese",
+        "description": "Ville a strapiombo sul mare con piscine a sfioro"
+      },
+      "berat": {
+        "title": "Berat: Una fiaba ottomana per famiglie",
+        "subtitle": "La città dalle mille finestre",
+        "description": "Vivi in un sito Patrimonio dell'Umanità UNESCO, dove le case ottomane si arrampicano sulla montagna sotto l'antico castello. Un museo vivente della storia albanese."
+      },
+      "dhermi": {
+        "title": "Dhërmi: Lavora dal paradiso",
+        "subtitle": "Il principale rifugio per nomadi digitali in Albania",
+        "description": "Dove il lavoro remoto incontra il lusso in riva al mare. Unisciti alla nostra fiorente comunità di professionisti digitali."
+      }
+    }
+  },
+  "services": {
+    "mainTitle": "Il Tuo Viaggio, La Nostra Promessa",
+    "mainDescription": "Dalla pianificazione all'esperienza, gestiamo ogni aspetto della tua avventura in Albania. Scegli tra i nostri servizi completi o combinali per creare la tua esperienza perfetta.",
+    "tourTitle": "Tour ed Escursioni Turistiche",
+    "tourText": "Dai tour di gruppo guidati alle esperienze culturali, siti storici ed escursioni naturalistiche. Guide esperte danno vita al ricco patrimonio e alle meraviglie naturali dell'Albania.",
+    "privateTitle": "Tour Privati Personalizzati",
+    "privateText": "Esperienze di lusso su misura per i tuoi interessi - tour fotografici, occasioni speciali o esperienze locali esclusive. La tua avventura albanese dei sogni, creata solo per te.",
+    "transportTitle": "Servizi di Trasporto",
+    "transportText": "Trasferimenti senza problemi da aeroporti e porti, servizi di traghetti e trasporto di gruppo. Autisti professionisti e servizio di accoglienza inclusi.",
+    "accommodationTitle": "Soluzioni di Alloggio",
+    "accommodationText": "Da hotel di lusso a B&B accoglienti, affitti vacanze ad alloggi a lungo termine. Disponibili alloggi aziendali. Tutte le proprietà verificate per qualità e comfort.",
+    "residencyTitle": "Supporto Residenza e Legale",
+    "residencyText": "Assistenza esperta con permessi, documentazione, consulenza legale e registrazione locale. Supporto completo per il tuo trasferimento in Albania.",
+    "vehicleTitle": "Servizi Veicoli",
+    "vehicleText": "Noleggio auto completo, flotta di veicoli di lusso, leasing a lungo termine con assicurazione e assistenza stradale 24/7. Disponibili permessi transfrontalieri.",
+    "bookingTitle": "Ufficio Prenotazioni Viaggi",
+    "bookingText": "Punto unico per voli, crociere, biglietti ferroviari e assicurazioni di viaggio. Tariffe speciali e pacchetti convenienti per i nostri clienti.",
+    "communityTitle": "Comunità e Sociale",
+    "communityText": "Unisciti alla nostra vivace comunità internazionale. Incontri regolari, programmi di scambio culturale ed eventi di networking. Costruisci amicizie durature in Albania.",
+    "conciergeTitle": "Servizi di Concierge",
+    "conciergeText": "Supporto concierge premium - prenotazioni ristoranti, biglietti eventi, assistenza shopping, raccomandazioni locali e supporto emergenze 24/7.",
+    "ctaText": "Che tu abbia bisogno di un singolo servizio o di un pacchetto completo, il nostro team è qui per garantire che la tua esperienza in Albania superi le aspettative. Iniziamo oggi a pianificare il tuo viaggio.",
+    "ctaButton": "Esplora Tutti i Servizi"
+  },
+  "bookYourWay": {
+    "title": "Prenota a Modo Tuo",
+    "subtitle": "Che tu voglia un pacchetto completo o solo servizi individuali, il nostro processo di prenotazione è semplice e flessibile",
+    "cards": {
+      "tours": {
+        "title": "Pacchetti Tour Completi",
+        "description": "Prenota l'intero pacchetto per un'esperienza comoda e organizzata",
+        "cta": "Esplora Tour"
+      },
+      "stays": {
+        "title": "Soggiorni Individuali",
+        "description": "Prenota ville, hotel o B&B in modo indipendente",
+        "cta": "Vedi Alloggi"
+      },
+      "services": {
+        "title": "Servizi Singoli",
+        "description": "Hai bisogno solo del trasporto o di una guida? Personalizza il tuo viaggio.",
+        "cta": "Scegli Servizi"
+      }
+    }
+  },
+  "communitySection": {
+    "title": "Unisciti alla Nostra Comunità",
+    "subtitle": "Connettiti con migliaia di viaggiatori e residenti in Albania",
+    "cards": [
+      {
+        "platform": "Facebook",
+        "title": "Facebook",
+        "description": "Unisciti alla nostra community con oltre 14.000 membri attivi"
+      },
+      {
+        "platform": "YouTube",
+        "title": "YouTube",
+        "description": "Guarda i nostri video e scopri la vera Albania in movimento"
+      },
+      {
+        "platform": "Google",
+        "title": "Google",
+        "description": "Leggi recensioni e condividi la tua esperienza in Albania"
+      }
+    ],
+    "cta": "✦ Entra nella Community ✦"
+  },
+  "tourPackages": {
+    "title": "Pacchetti Tour Curati",
+    "description": "Scopri le destinazioni più belle dell'Albania con i nostri pacchetti turistici curati nei minimi dettagli, progettati per offrire ricordi indimenticabili.",
+    "ctaCall": "Chiama Ora",
+    "ctaSchedule": "Pianifica una Chiamata",
+    "package1": {
+      "title": "Grand Sud Albania",
+      "subtitle": "Esperienza Completa in Un Giorno",
+      "description": "Viaggio attraverso la splendida rotta meridionale dell'Albania, visitando Tepelena, il Castello di Gjirokaster, l'Occhio Blu, Ksamil, Saranda e il Castello — tutto in un giorno.",
+      "duration": "12 ore (08:00 - 20:00)",
+      "locations": ["Tepelena", "Castello di Gjirokaster", "Occhio Blu", "Ksamil", "Saranda"],
+      "includes": [
+        "Guida professionale",
+        "Trasporto",
+        "Sosta pranzo opzionale",
+        "Biglietti d'ingresso",
+        "Acqua e snack",
+        "Soste fotografiche"
+      ]
+    },
+    "package2": {
+      "title": "Valona e Dintorni",
+      "subtitle": "Tour Culturale di Mezza Giornata",
+      "description": "Scopri il ricco patrimonio culturale di Valona, partendo dal sereno Monastero di Zvernec. Visita il centro storico di Muradie e antiche moschee e chiese. Ideale per chi ha poco tempo ma vuole immergersi nella storia albanese.",
+      "duration": "6 ore (08:00 - 14:00)",
+      "locations": ["Monastero di Zvernec", "Centro Muradie", "Centro Storico di Valona"],
+      "includes": [
+        "Guida esperta",
+        "Biglietti d'ingresso",
+        "Acqua e rinfreschi",
+        "Trasporto",
+        "Organizzazione pranzo opzionale"
+      ]
+    },
+    "package3": {
+      "title": "Avventura sulla Nave Pirata",
+      "subtitle": "Esplorazione del Mare Ionio",
+      "description": "Salpa lungo la penisola di Karaburun e la misteriosa isola di Sazan. Esplora la leggendaria Grotta dei Pirati (Haxhi Ali). Scegli tra pranzo a bordo o sosta su una spiaggia nascosta.",
+      "duration": "8 ore (10:00 - 18:00)",
+      "locations": ["Penisola di Karaburun", "Isola di Sazan", "Grotta di Haxhi Ali"],
+      "includes": [
+        "Giro in barca",
+        "Pranzo a bordo opzionale",
+        "Equipaggio professionale",
+        "Attrezzatura di sicurezza",
+        "Soste per nuotare",
+        "Acqua e rinfreschi"
+      ]
+    },
+    "package4": {
+      "title": "Tour delle Città Storiche",
+      "subtitle": "Scopri Berat e Gjirokastër",
+      "description": "Esplora le affascinanti città storiche di Berat e Gjirokastër, entrambe Patrimonio dell'Umanità UNESCO. Passeggia tra le strade acciottolate, visita castelli antichi e immergiti nella cultura albanese.",
+      "duration": "10 ore (08:00 - 18:00)",
+      "locations": ["Castello di Berat", "Centro Storico di Gjirokastër", "Quartiere Mangalem"],
+      "includes": [
+        "Tour guidato",
+        "Ingressi ai musei",
+        "Trasporto andata e ritorno",
+        "Acqua e snack"
+      ]
+    },
+    "package5": {
+      "title": "Avventura in Montagna",
+      "subtitle": "Escursione nelle Alpi Albanesi",
+      "description": "Partecipa a un'escursione guidata nelle spettacolari Alpi Albanesi. Goditi panorami mozzafiato, aria fresca di montagna e scopri la flora e fauna locali.",
+      "duration": "12 ore (07:00 - 19:00)",
+      "locations": ["Parco Nazionale di Theth", "Valle di Valbona", "Occhio Blu di Theth"],
+      "includes": [
+        "Guida escursionistica",
+        "Trasporto 4x4",
+        "Pranzo al sacco",
+        "Acqua e rinfreschi"
+      ]
+    },
+    "package6": {
+      "title": "Relax sulla Spiaggia",
+      "subtitle": "Giornata a Ksamil",
+      "description": "Trascorri una giornata rilassante sulle spiagge di sabbia bianca di Ksamil. Nuota nelle acque cristalline, prendi il sole e assapora la cucina locale nei ristoranti sul mare.",
+      "duration": "8 ore (09:00 - 17:00)",
+      "locations": ["Spiaggia di Ksamil", "Isole di Ksamil", "Spiaggia Mirror"],
+      "includes": [
+        "Telo mare",
+        "Lettino e ombrellone",
+        "Cocktail di benvenuto",
+        "Acqua e snack"
+      ]
+    }
+  }
+}
